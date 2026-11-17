@@ -1,4 +1,4 @@
-# Procedure to test related remote commits :
+# Procedure to test related commits :
 
 Clone Godot repository then
 
